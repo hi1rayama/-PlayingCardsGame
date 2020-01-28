@@ -11,6 +11,7 @@
 * CSS
 * JavaScript
 * MySQL
+* NetBeans
  
 ## 画像
 
